@@ -1,6 +1,6 @@
 def find_element_index(array, value_to_find)
   counter=0 
-  numbers
+  numbers= [2,4,5,6]
 end
 
 def find_max_value(array)
